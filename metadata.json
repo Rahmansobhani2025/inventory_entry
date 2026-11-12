@@ -1,0 +1,10 @@
+{
+  "name": "Inventory Entry",
+  "description": "A luxury brand operator dashboard for Envision Eyewear to assist field agents in Jordan and Saudi Arabia with digitalizing eyewear inventory using a custom 5-step camera capture canvas, Cloudinary streaming, and Gemini AI auto-extraction.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
